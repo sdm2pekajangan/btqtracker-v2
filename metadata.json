@@ -1,0 +1,8 @@
+{
+  "name": "BTQ Tracker",
+  "description": "Aplikasi monitoring dan pelacak progres mengaji Al-Qur'an dan Jilid BTQ (Baca Tulis Al-Qur'an).",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
